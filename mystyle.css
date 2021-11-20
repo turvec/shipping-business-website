@@ -3,6 +3,7 @@
     height: 100%;
     width: 100%;
 } */
-#hero{
-    background: url("shipping.mp4");
+.herovideo{
+    position: absolute;
+    
 }
